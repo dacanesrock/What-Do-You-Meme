@@ -1,0 +1,38 @@
+html,
+.container-fluid {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	background: black;
+	color: white;
+	height: 100%;
+}
+
+.buttons {
+	padding: 2%;
+	margin: 1%;
+}
+
+#buttonSpace {
+	padding: 2%;
+	border-bottom: 1px solid white;
+}
+
+.gifBox {
+	text-align: center;
+	padding: 2%;
+	display: inline-block;
+}
+
+.title {
+	font-family: 'Knewave', cursive;
+	font-size: 60px;
+}
+
+.subtitle {
+	font-family: 'Knewave', cursive;
+	font-size: 40px;
+	text-shadow: 4px 4px 7px rgba(255, 136, 124, 1);
+}
+
+.addMeme {
+	padding: 2%;
+}
